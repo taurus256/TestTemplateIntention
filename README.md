@@ -9,7 +9,7 @@
 1. Сначала нужно открыть настройки (File | Settings | Appearance & Behavior | Path Variables) и внести переменную с именем Method в Ignored Variables. Идея путает переменные скриптов с переменными окружения, если этого не сделать, будет ругаться при старте проекта.
 ![alt](https://github.com/taurus256/TestTemplateIntention/blob/main/imgs/1.png)
 2. Поместить файл Project_Default.xml в папку .idea/inspectionProfiles/ нужного проекта. Если такой папки нет - создать её.
-3. Рестартовать Идею, открыть File | Settings | Editor | Inspections и убедиться, что нужная инспекция активна
+3. Рестартовать Идею, открыть File | Settings | Editor | Inspections и убедиться, что инспекция "Create method template for controller unit test" активна
 ![alt](https://github.com/taurus256/TestTemplateIntention/blob/main/imgs/2.png)
 
 После этого можно её вызывать с помощью Alt+Enter на аннотации любого REST-метода
