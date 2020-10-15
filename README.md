@@ -14,4 +14,4 @@
 ![alt](https://github.com/taurus256/TestTemplateIntention/blob/main/imgs/2.png)
 
 После этого можно её вызывать с помощью Alt+Enter на аннотации любого REST-метода
- 
+![alt](https://github.com/taurus256/TestTemplateIntention/blob/main/imgs/3.png)
